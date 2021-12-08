@@ -8,7 +8,7 @@ The goal of the game is to *claim 5 balls every 10 seconds*.
 Version: **1.0**
 
 ## Game Controls
-| Description | Key |
+| Description | Key(s) |
 | ------------- | ------------- |
 | Start & Pause Game  | SPACE  |
 | **Default** move | W,A,S,D |
