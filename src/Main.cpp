@@ -190,8 +190,10 @@ int main()
 			if (score < validScore)
 			{
 				score = 0;
+				validScore = 0;
 				menu.setString(lostMsg);
 				gameStatus = GameStatus::Lost;
+				endTime = sf::seconds(10.0f);
 			}
 
 			else endTime += sf::seconds(10.0f);
