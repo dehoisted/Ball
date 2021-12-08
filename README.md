@@ -21,7 +21,7 @@ Version: **1.0**
 ## Images
 ![image](https://user-images.githubusercontent.com/75084509/145305901-3fa8a61d-b07e-435b-8c57-d7863d4dc877.png)
 ![image](https://user-images.githubusercontent.com/75084509/145306054-fa733687-59b3-4437-bb88-bff988afb079.png)
-![image](https://user-images.githubusercontent.com/75084509/145306301-e6200390-e59a-48ab-af58-5079c5d3e15f.png)
+![image](https://user-images.githubusercontent.com/75084509/145306392-0bea05c4-09a5-4ad0-8bed-b8d89f4bf6bb.png)
 
 ## SFML
 [SFML](https://www.sfml-dev.org/index.php) - *Simple and Fast Multimedia Library*.                                                                                                                  
