@@ -18,6 +18,9 @@ Version: **1.0**
 | Restart Music | R |
 | Exit | ESC |
 
+## Images
+![image](https://user-images.githubusercontent.com/75084509/145304216-54aad01d-08bc-4794-bc40-93f1cc1a2ade.png)
+
 ## SFML
 [SFML](https://www.sfml-dev.org/index.php) - *Simple and Fast Multimedia Library*.                                                                                                                  
 **SFML** provides a simple way to create visuals, play audio, netcode etc.                                                                                      
